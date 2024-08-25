@@ -18,6 +18,19 @@ Syntax highlighted code block
 - Bulleted
 - List
 
+# This is how you test headers!
+## Subsection A
+### Subsubsection a
+aaaaaa
+### Subsubsection b
+bbbbbb `but in codeblocks`
+## Subsection X
+### Subsubsection x
+xxxxxx
+### Subsubsection y
+yyyyyy **_but in bold and italics_**
+
+
 1. Numbered
 2. List
 
