@@ -18,6 +18,14 @@ Syntax highlighted code block
 - Bulleted
 - List
 
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
 # This is how you test headers!
 ## Subsection A
 ### Subsubsection a
@@ -29,15 +37,6 @@ bbbbbb `but in codeblocks`
 xxxxxx
 ### Subsubsection y
 yyyyyy **_but in bold and italics_**
-
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
