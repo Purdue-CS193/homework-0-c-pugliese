@@ -1,4 +1,4 @@
-# Connor Pugliese's first CS193 Homework
+# Connor Pugliese's First CS193 Homework
 
 ## Favorite Things About CS193
 - Optional PSO assistance
